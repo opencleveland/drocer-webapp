@@ -9,7 +9,7 @@ jsonpickle==0.9.3
 MarkupSafe==0.23
 mysql-connector==2.1.7
 pdfminer==20140328
-pycparser==2.14
+pycparser==2.20
 requests==2.20.0
 six==1.10.0
 SQLAlchemy==1.0.15
