@@ -7,7 +7,7 @@ itsdangerous==0.24
 Jinja2==2.10.1
 jsonpickle==0.9.3
 MarkupSafe==0.23
-mysql-connector==2.1.7
+mysql-connector==2.2.9
 pdfminer==20140328
 pycparser==2.14
 requests==2.20.0
