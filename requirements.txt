@@ -6,7 +6,7 @@ Flask-SQLAlchemy==2.1
 itsdangerous==0.24
 Jinja2==2.10.1
 jsonpickle==0.9.3
-MarkupSafe==0.23
+MarkupSafe==2.1.2
 mysql-connector==2.1.7
 pdfminer==20140328
 pycparser==2.14
